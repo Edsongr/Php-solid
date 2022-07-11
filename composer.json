@@ -1,0 +1,17 @@
+{
+    "name": "edson/solid-php",
+    "autoload": {
+        "psr-4": {
+            "Edson\\SolidPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edson Oliveira",
+            "email": "edsongrdeveloper@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
